@@ -1,3 +1,0 @@
-# Taxi-analysis-nyc-
-Explanation 
-Methodology ......
